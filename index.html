@@ -1,0 +1,116 @@
+﻿<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AstroBrief Today</title>
+  <meta
+    name="description"
+    content="매일 최신 arXiv 천체물리학 논문 한 편을 요약하고, 핵심 개념과 후속 연구 아이디어까지 연결해주는 데일리 브리핑 사이트입니다."
+  >
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <div class="site-shell">
+    <header class="hero" data-reveal>
+      <div class="hero-copy">
+        <p class="eyebrow" id="hero-eyebrow"></p>
+        <h1 id="site-title"></h1>
+        <p class="hero-subtitle" id="site-subtitle"></p>
+        <div class="hero-actions">
+          <a class="button button-primary" id="paper-link" href="#" target="_blank" rel="noreferrer">arXiv 원문 보기</a>
+          <button class="button button-secondary" id="toggle-abstract" type="button" aria-expanded="false">초록 펼치기</button>
+        </div>
+      </div>
+
+      <aside class="hero-panel">
+        <div class="hero-panel-head">
+          <span class="status-dot"></span>
+          <span id="hero-status-label">브리핑 준비 중</span>
+        </div>
+        <div class="stats-grid" id="stats-grid"></div>
+      </aside>
+    </header>
+
+    <main class="content-grid">
+      <section class="card spotlight" data-reveal>
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">1. 오늘의 논문</p>
+            <h2 id="paper-title"></h2>
+          </div>
+          <div class="paper-meta">
+            <span class="meta-chip" id="paper-date"></span>
+            <span class="meta-chip" id="paper-category"></span>
+          </div>
+        </div>
+
+        <p class="authors" id="paper-authors"></p>
+
+        <div class="summary-layout">
+          <article class="summary-block">
+            <h3>초록 수준 요약</h3>
+            <ul class="bullet-list" id="summary-list"></ul>
+          </article>
+
+          <article class="summary-block">
+            <h3>바로 읽어야 할 지점</h3>
+            <ul class="bullet-list" id="takeaway-list"></ul>
+          </article>
+        </div>
+
+        <div class="abstract-panel is-collapsed" id="abstract-panel">
+          <div class="section-head section-head-compact">
+            <h3>원문 초록</h3>
+            <span class="meta-chip">Raw abstract</span>
+          </div>
+          <p class="abstract-text" id="paper-abstract"></p>
+        </div>
+      </section>
+
+      <section class="card concept-card" data-reveal>
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">2. 핵심 개념 짚기</p>
+            <h2 id="concept-title"></h2>
+          </div>
+          <span class="meta-chip" id="concept-label"></span>
+        </div>
+
+        <div class="concept-layout">
+          <div class="concept-copy">
+            <p class="concept-description" id="concept-description"></p>
+          </div>
+        </div>
+      </section>
+
+      <section class="card ideas-card" data-reveal>
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">3. 연구 아이디어와 후속 방향</p>
+            <h2>이 논문에서 파생할 수 있는 다음 질문</h2>
+          </div>
+        </div>
+
+        <div class="ideas-grid" id="ideas-grid"></div>
+      </section>
+
+      <section class="card workflow-card" data-reveal>
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">운영 메모</p>
+            <h2>매일 갱신하는 방식</h2>
+          </div>
+        </div>
+        <ul class="workflow-list" id="workflow-list"></ul>
+      </section>
+    </main>
+  </div>
+
+  <script src="data/site-content.js"></script>
+  <script src="data/paper-latest.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>
+
+
