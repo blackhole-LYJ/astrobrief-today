@@ -1,0 +1,38 @@
+name: Update Daily AstroBrief Snapshot
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-snapshot:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: astrobrief-daily-snapshot
+      cancel-in-progress: false
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Refresh daily snapshot
+        shell: pwsh
+        run: ./scripts/update-briefing.ps1
+
+      - name: Commit snapshot if changed
+        shell: bash
+        run: |
+          if git diff --quiet -- data/paper-latest.js; then
+            echo "No snapshot changes."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/paper-latest.js
+          git commit -m "Update daily AstroBrief snapshot"
+          git push
