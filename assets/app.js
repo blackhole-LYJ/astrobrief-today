@@ -155,10 +155,6 @@
     });
   }
 
-  function renderWorkflow() {
-    renderList($("#workflow-list"), site.workflow);
-  }
-
   function fillPage() {
     const paper = state.paper;
     const concept = getActiveConcept();
@@ -184,7 +180,6 @@
 
     renderStats();
     renderIdeas();
-    renderWorkflow();
   }
 
   function wireInteractions() {
