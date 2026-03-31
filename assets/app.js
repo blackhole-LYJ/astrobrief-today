@@ -188,16 +188,6 @@
   }
 
   function wireInteractions() {
-    const toggleButton = $("#toggle-abstract");
-    const panel = $("#abstract-panel");
-
-    toggleButton.addEventListener("click", function () {
-      const expanded = toggleButton.getAttribute("aria-expanded") === "true";
-      toggleButton.setAttribute("aria-expanded", String(!expanded));
-      toggleButton.textContent = expanded ? "초록 펼치기" : "초록 접기";
-      panel.classList.toggle("is-collapsed", expanded);
-    });
-
     const observer = new IntersectionObserver(
       (entries) => {
         entries.forEach((entry) => {
