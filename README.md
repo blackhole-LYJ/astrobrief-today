@@ -6,6 +6,8 @@
 2. 핵심 개념 짚기: 논문에서 뽑은 단일 핵심 개념 1개
 3. 연구 아이디어: 이 논문에서 바로 파생할 수 있는 후속 질문
 
+사이트 주소: [https://blackhole-lyj.github.io/astrobrief-today/](https://blackhole-lyj.github.io/astrobrief-today/)
+
 ## 파일 구조
 
 - `index.html`: 메인 페이지
