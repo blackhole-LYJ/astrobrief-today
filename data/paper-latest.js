@@ -1,33 +1,35 @@
 ﻿window.ASTROBRIEF_PAPER = {
   "status": "snapshot",
-  "generatedAt": "2026-03-31T01:19:49.4611033Z",
-  "snapshotDateKst": "2026-03-31",
-  "snapshotLabel": "2026년 3월 31일 오전 9시 KST 스냅샷",
-  "publishedAt": "2026-03-27T17:58:11.0000000+00:00",
-  "updatedAt": "2026-03-27T17:58:11.0000000+00:00",
+  "generatedAt": "2026-04-01T01:26:31.3805192Z",
+  "snapshotDateKst": "2026-04-01",
+  "snapshotLabel": "2026년 4월 1일 오전 9시 KST 스냅샷",
+  "publishedAt": "2026-03-30T17:59:01.0000000+00:00",
+  "updatedAt": "2026-03-30T17:59:01.0000000+00:00",
   "selectionSource": "https://arxiv.org/list/astro-ph/recent",
   "selectionRule": "한국 시간 오전 9시에 astro-ph/recent를 열었을 때 최상단 논문",
-  "focus": "고에너지 천체물리 현상",
-  "title": "Gaia Sees Blazars Move: Locating Optical Flares Using Astrometry",
+  "focus": "우주론적 초기 조건과 암흑 성분 제약",
+  "title": "Cosmic Shear in Effective Field Theory at Two-Loop Order: Revisiting $S_8$ in Dark Energy Survey Data",
   "authors": [
-    "Alexander Plavin"
+    "Shi-Fan Chen",
+    "Joseph DeRose",
+    "Mikhail M. Ivanov",
+    "Oliver H. E. Philcox"
   ],
   "categories": [
-    "astro-ph.HE",
-    "astro-ph.GA"
+    "astro-ph.CO"
   ],
-  "arxivUrl": "https://arxiv.org/abs/2603.26662v1",
+  "arxivUrl": "https://arxiv.org/abs/2603.28761v1",
   "summaryBullets": [
-    "이 논문은 'Gaia Sees Blazars Move: Locating Optical Flares Using Astrometry'라는 질문을 중심으로 고에너지 천체물리 현상 문제를 다룹니다. 초록의 첫 메시지는 'When blazars flare, their optical position moves.'에 가깝습니다.",
-    "접근 방식은 초록에 제시된 핵심 가설을 검증하기 위한 분석적 접근에 가깝고, 저자들은 어떤 파라미터나 관측량이 결론을 가장 크게 움직이는지에 주목합니다.",
-    "초록의 마무리 메시지는 'Per-epoch astrometry from Gaia DR4 is set to tighten our constraints even further.'으로 읽을 수 있어서, 후속 연구에서는 이 결론이 다른 데이터셋과 가정에서도 유지되는지 확인하는 것이 중요합니다."
+    "이 논문은 'Cosmic Shear in Effective Field Theory at Two-Loop Order: Revisiting $S_8$ in Dark Energy Survey Data'라는 질문을 중심으로 우주론적 초기 조건과 암흑 성분 제약 문제를 다룹니다. 초록의 첫 메시지는 'Cosmic shear is a powerful probe of cosmological distances, matter abundance and clustering in the low-redshift Universe.'에 가깝습니다.",
+    "접근 방식은 이론적 프레임워크와 해석적 계산 중심 접근에 가깝고, 저자들은 어떤 파라미터나 관측량이 결론을 가장 크게 움직이는지에 주목합니다.",
+    "초록의 마무리 메시지는 'As an example, we derive matter clustering constraints within the dynamical dark energy model from a combination of our DES-EFT cosmic shear likelihood, early-universe CMB priors, DESI BAO, and supernovae data, finding $S_8 = 0.824\\pm 0.029$, indicating no $S_8$ tension in the growth of cosmic structure regardless of the underlying cosmological model and expansion history.'으로 읽을 수 있어서, 후속 연구에서는 이 결론이 다른 데이터셋과 가정에서도 유지되는지 확인하는 것이 중요합니다."
   ],
   "takeaways": [
-    "핵심 포커스는 '고에너지 천체물리 현상'이므로, 저자들이 무엇을 새롭게 제약했는지 먼저 읽어보면 좋습니다.",
-    "방법론은 '초록에 제시된 핵심 가설을 검증하기 위한 분석적 접근'에 가깝기 때문에, 데이터 선택과 모형 가정이 결론에 주는 영향을 같이 보는 것이 좋습니다.",
+    "핵심 포커스는 '우주론적 초기 조건과 암흑 성분 제약'이므로, 저자들이 무엇을 새롭게 제약했는지 먼저 읽어보면 좋습니다.",
+    "방법론은 '이론적 프레임워크와 해석적 계산 중심 접근'에 가깝기 때문에, 데이터 선택과 모형 가정이 결론에 주는 영향을 같이 보는 것이 좋습니다.",
     "결론이 다른 관측 장비, 표본, 또는 시뮬레이션에서도 재현 가능한지 메모해 두면 바로 다음 연구 질문으로 이어집니다."
   ],
-  "abstract": "When blazars flare, their optical position moves. We show this by combining Gaia DR3 proper motions with epoch photometry for blazars with strong optical jet emission. In 60 of 74 sources with significant proper motion, rising flux drives the centroid upstream while fading flux drives it downstream - a near-universal pattern captured by a simple two-component model of constant extended emission and a flaring region. Using this connection, we geometrically localize the optical flares to within <1 mas of the VLBI position - a few parsecs at typical blazar distances - placing them in the innermost jet or accretion disk. This purely geometric method requires no multi-wavelength correlations or model-dependent assumptions, and provides an independent spatial anchor for localizing higher-energy flares. Per-epoch astrometry from Gaia DR4 is set to tighten our constraints even further.",
+  "abstract": "Cosmic shear is a powerful probe of cosmological distances, matter abundance and clustering in the low-redshift Universe. Cosmological parameter extraction from cosmic shear data is limited by our understanding of baryonic astrophysics, which severely restricts the range of scales used in such analyses. We show that the remaining scales are largely perturbative and can be accurately described with two-loop effective field theory (EFT) predictions. We present the first consistent analysis of the public cosmic shear data from the DES-Y3 catalogs in EFT at the two-loop order, renormalizing small-scale sensitivity in cosmic-shear predictions via a lensing-counterterm expansion and accounting for the intrinsic alignments of galaxies with spin-2 EFT predictions. We constrain the lensing amplitude competitively with standard (empirically-modeled) methods, finding $S_8 = 0.783^{+0.038}_{-0.031}$ ($S_8 = 0.802^{+0.031}_{-0.026}$ with BAO). The perturbativity of cosmic shear suggests novel opportunities for testing new physics with ongoing and upcoming cosmic shear experiments like Roman, Euclid, and LSST. As an example, we derive matter clustering constraints within the dynamical dark energy model from a combination of our DES-EFT cosmic shear likelihood, early-universe CMB priors, DESI BAO, and supernovae data, finding $S_8 = 0.824\\pm 0.029$, indicating no $S_8$ tension in the growth of cosmic structure regardless of the underlying cosmological model and expansion history.",
   "researchIdeas": [
     {
       "kicker": "Observation",
@@ -37,9 +39,9 @@
     },
     {
       "kicker": "Modeling",
-      "title": "강한 가정 두세 개만 골라 민감도 스캔하기",
-      "description": "초록에서 중요한 결론일수록 특정 초기 조건, prior, 잡음 모형, 또는 피직스 옵션에 얼마나 민감한지 확인해야 해석 범위를 더 정확히 잡을 수 있습니다.",
-      "nextStep": "결론을 가장 많이 흔들 것 같은 가정 2~3개를 선정해 파라미터 스윕 실험을 설계합니다."
+      "title": "prior와 통계 선택이 결론을 얼마나 바꾸는지 분리하기",
+      "description": "베이지안 또는 likelihood 기반 논문이라면 통계적 선택이 물리적 결론보다 더 큰 영향을 주는지 확인하는 과정이 중요합니다.",
+      "nextStep": "기본 prior와 대안 prior를 나눈 비교 도표를 먼저 만듭니다."
     },
     {
       "kicker": "Forecast",
@@ -50,7 +52,7 @@
   ],
   "concept": {
     "label": "Selected Concept",
-    "title": "관측량과 모형을 연결하는 해석 프레임",
-    "description": "이 논문에서 독자가 먼저 잡아야 할 개념은 무엇을 직접 본 것인가보다 관측량이 어떤 물리 모형과 연결되는가입니다. 최신 천체물리학 논문은 대개 관측 데이터, 통계 추론, 이론 모형을 한 덩어리로 다루므로, 핵심 개념도 특정 현상 하나보다 그 연결 구조를 이해하는 데서 나옵니다."
+    "title": "암흑에너지 밀도 매개화",
+    "description": "이 논문에서 잡아야 할 개념은 암흑에너지의 진화를 직접 상태방정식으로 쓰기보다 밀도 함수 자체를 적은 수의 파라미터로 표현하는 방법입니다. 이렇게 하면 기존 CPL 같은 표현이 놓칠 수 있는 밀도 변화 양상을 더 직접적으로 비교할 수 있고, 관측 데이터가 실제로 어떤 시간대의 우주 팽창 이력을 선호하는지도 더 분명하게 읽어낼 수 있습니다. 핵심은 어떤 수학적 형태가 더 편한가보다, 관측 가능한 밀도 변화가 모델 선택에 얼마나 민감한가를 묻는 데 있습니다."
   }
 };
