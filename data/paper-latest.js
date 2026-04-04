@@ -1,36 +1,50 @@
 ﻿window.ASTROBRIEF_PAPER = {
   "status": "snapshot",
-  "generatedAt": "2026-04-03T01:18:47.5535555Z",
-  "snapshotDateKst": "2026-04-03",
-  "snapshotLabel": "2026년 4월 3일 오전 9시 KST 스냅샷",
-  "publishedAt": "2026-04-01T17:58:40.0000000+00:00",
-  "updatedAt": "2026-04-01T17:58:40.0000000+00:00",
+  "generatedAt": "2026-04-04T01:13:18.6049820Z",
+  "snapshotDateKst": "2026-04-04",
+  "snapshotLabel": "2026년 4월 4일 오전 9시 KST 스냅샷",
+  "publishedAt": "2026-04-02T17:59:59.0000000+00:00",
+  "updatedAt": "2026-04-02T17:59:59.0000000+00:00",
   "selectionSource": "https://arxiv.org/list/astro-ph/recent",
   "selectionRule": "한국 시간 오전 9시에 astro-ph/recent를 열었을 때 최상단 논문",
-  "focus": "고에너지 천체물리 현상",
-  "title": "Multimessenger Constraints on Production Sites of High-Energy Neutrinos from NGC 1068",
+  "focus": "행성계와 반사광·스펙트럼 해석",
+  "title": "Hot Rocks Survey V: Secondary Eclipse Photometry of GJ 3473 b with JWST/MIRI",
   "authors": [
-    "Abhishek Das",
-    "Kohta Murase",
-    "B. Theodore Zhang"
+    "Måns Holmberg",
+    "Hannah Diamond-Lowe",
+    "João M. Mendonça",
+    "Daniel Kitzmann",
+    "Néstor Espinoza",
+    "Natalie H. Allen",
+    "Prune C. August",
+    "Mark Fortune",
+    "Amélie Gressier",
+    "Jegug Ih",
+    "Erik Meier Valdés",
+    "Merlin Zgraggen",
+    "Lars A. Buchhave",
+    "Brice-Olivier Demory",
+    "Chloe Fisher",
+    "Neale P. Gibson",
+    "Kevin Heng",
+    "Bibiana Prinoth",
+    "Adam J. Burgasser"
   ],
   "categories": [
-    "astro-ph.HE",
-    "astro-ph.GA",
-    "hep-ph"
+    "astro-ph.EP"
   ],
-  "arxivUrl": "https://arxiv.org/abs/2604.01222v1",
+  "arxivUrl": "https://arxiv.org/abs/2604.02332v1",
   "summaryBullets": [
-    "이 논문은 'Multimessenger Constraints on Production Sites of High-Energy Neutrinos from NGC 1068'라는 질문을 중심으로 고에너지 천체물리 현상 문제를 다룹니다. 초록의 첫 메시지는 'The detection of high-energy neutrino signals from the nearby Seyfert galaxy NGC 1068 provides us with a unique opportunity to explore nonthermal processes near the center of supermassive black holes.'에 가깝습니다.",
+    "이 논문은 'Hot Rocks Survey V: Secondary Eclipse Photometry of GJ 3473 b with JWST/MIRI'라는 질문을 중심으로 행성계와 반사광·스펙트럼 해석 문제를 다룹니다. 초록의 첫 메시지는 'JWST is transforming our ability to characterise small exoplanets, from sub-Neptunes to rocky worlds.'에 가깝습니다.",
     "접근 방식은 관측 자료와 서베이 데이터를 활용한 접근에 가깝고, 저자들은 어떤 파라미터나 관측량이 결론을 가장 크게 움직이는지에 주목합니다.",
-    "초록의 마무리 메시지는 'Given that NGC 1068 can be established as a neutrino source, our results will provide evidence for the standard hadronic scenario, including magnetically powered corona models having hard spectra with $s_{\\rm CR}\\lesssim2$.'으로 읽을 수 있어서, 후속 연구에서는 이 결론이 다른 데이터셋과 가정에서도 유지되는지 확인하는 것이 중요합니다."
+    "초록의 마무리 메시지는 'Future spectroscopic or phase-curve observations will be required to determine whether or not GJ 3473 b hosts a substantial atmosphere'으로 읽을 수 있어서, 후속 연구에서는 이 결론이 다른 데이터셋과 가정에서도 유지되는지 확인하는 것이 중요합니다."
   ],
   "takeaways": [
-    "핵심 포커스는 '고에너지 천체물리 현상'이므로, 저자들이 무엇을 새롭게 제약했는지 먼저 읽어보면 좋습니다.",
+    "핵심 포커스는 '행성계와 반사광·스펙트럼 해석'이므로, 저자들이 무엇을 새롭게 제약했는지 먼저 읽어보면 좋습니다.",
     "방법론은 '관측 자료와 서베이 데이터를 활용한 접근'에 가깝기 때문에, 데이터 선택과 모형 가정이 결론에 주는 영향을 같이 보는 것이 좋습니다.",
     "결론이 다른 관측 장비, 표본, 또는 시뮬레이션에서도 재현 가능한지 메모해 두면 바로 다음 연구 질문으로 이어집니다."
   ],
-  "abstract": "The detection of high-energy neutrino signals from the nearby Seyfert galaxy NGC 1068 provides us with a unique opportunity to explore nonthermal processes near the center of supermassive black holes. Using the IceCube and Fermi-LAT data, we present general multimessenger constraints on the energetics of cosmic rays and the compactness of the neutrino emission region (${\\mathcal R}$), considering not only $pγ$ but also $pp$ processes. Compared to the photohadronic scenario, the hadronuclear scenario can alleviate constraints on the emission region, yielding ${\\mathcal R}\\lesssim30-70$ for low-$β$ plasma and ${\\mathcal R}\\lesssim5-50$ for high-$β$ plasma. While our results support the previous conclusion that the photohadronic scenario favors a compact corona with ${\\mathcal R}\\sim3-10$, these suggest the relevance of further investigations into $pp$ neutrino contributions. When the cosmic-ray spectrum is extended from 1 GeV, we find that the requred cosmic-ray luminosity exceeds the X-ray luminosity for a spectral index of $s_{\\rm CR}\\gtrsim2$, which challenges some shock acceleration models. We also show that the beta decay scenario is unlikely even if the magnetic field is as strong as the maximum allowed by the Eddington luminosity. Given that NGC 1068 can be established as a neutrino source, our results will provide evidence for the standard hadronic scenario, including magnetically powered corona models having hard spectra with $s_{\\rm CR}\\lesssim2$.",
+  "abstract": "JWST is transforming our ability to characterise small exoplanets, from sub-Neptunes to rocky worlds. A key open question is whether highly irradiated rocky planets can retain atmospheres or are stripped bare by stellar irradiation -- a boundary that remains to be mapped observationally. Here we present the first JWST secondary eclipse observations of the rocky exoplanet GJ 3473 b, obtained with MIRI F1500W photometry. Using four visits, we confidently detect the eclipse at an average depth of 186$\\pm$45 ppm, somewhat lower than expected for a blackbody. We test a wide range of data reduction and analysis assumptions and provide new insights into MIRI detector settling behaviour that will benefit future observations. We model a suite of airless surfaces with varied compositions, textures, and degrees of space weathering, as well as idealised atmospheric scenarios including the possibility of atmospheric collapse. Both atmospheric and bare-rock interpretations remain consistent with the data, but we exclude thick CO$_2$ atmospheres, placing a 95 % credible upper limit of 1.2-6.5 bar on the surface pressure. We also find tentative evidence for visit-to-visit variability in eclipse depth (33-371 ppm), though additional data are required to confirm this. Our results highlight the challenges and intrinsic degeneracies in interpreting MIRI F1500W eclipse measurements of rocky exoplanets, indicating that such observations alone may not uniquely distinguish between bare-rock and atmospheric scenarios. Future spectroscopic or phase-curve observations will be required to determine whether or not GJ 3473 b hosts a substantial atmosphere",
   "researchIdeas": [
     {
       "kicker": "Observation",
@@ -53,7 +67,7 @@
   ],
   "concept": {
     "label": "Selected Concept",
-    "title": "관측량과 모형을 연결하는 해석 프레임",
-    "description": "이 논문에서 독자가 먼저 잡아야 할 개념은 무엇을 직접 본 것인가보다 관측량이 어떤 물리 모형과 연결되는가입니다. 최신 천체물리학 논문은 대개 관측 데이터, 통계 추론, 이론 모형을 한 덩어리로 다루므로, 핵심 개념도 특정 현상 하나보다 그 연결 구조를 이해하는 데서 나옵니다."
+    "title": "검출기 네트워크 상관 분석",
+    "description": "이 논문의 핵심 개념은 신호를 단일 장비 하나에서 확정하려 하지 않고, 서로 멀리 떨어진 여러 검출기의 데이터를 함께 비교하는 상관 분석입니다. 각 장비의 로컬 잡음은 서로 다를 가능성이 크지만 실제 우주 기원의 신호는 여러 위치에서 일관된 패턴을 남길 수 있으므로, 네트워크를 구성하면 신호 대 잡음비를 높이고 신호의 기원도 더 설득력 있게 판단할 수 있습니다."
   }
 };
