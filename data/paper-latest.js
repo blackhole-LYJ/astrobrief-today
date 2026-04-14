@@ -1,38 +1,34 @@
 ﻿window.ASTROBRIEF_PAPER = {
   "status": "snapshot",
-  "generatedAt": "2026-04-12T01:26:25.3019640Z",
-  "snapshotDateKst": "2026-04-12",
-  "snapshotLabel": "2026년 4월 12일 오전 9시 KST 스냅샷",
-  "publishedAt": "2026-04-09T17:58:43.0000000+00:00",
-  "updatedAt": "2026-04-09T17:58:43.0000000+00:00",
+  "generatedAt": "2026-04-14T01:26:08.8017919Z",
+  "snapshotDateKst": "2026-04-14",
+  "snapshotLabel": "2026년 4월 14일 오전 9시 KST 스냅샷",
+  "publishedAt": "2026-04-10T17:57:28.0000000+00:00",
+  "updatedAt": "2026-04-10T17:57:28.0000000+00:00",
   "selectionSource": "https://arxiv.org/list/astro-ph/recent",
   "selectionRule": "한국 시간 오전 9시에 astro-ph/recent를 열었을 때 최상단 논문",
-  "focus": "우주론적 초기 조건과 암흑 성분 제약",
-  "title": "Disentangling cosmic distance tensions with early and late dark energy",
+  "focus": "은하와 은하 주변 물질의 진화",
+  "title": "The missing ultra-faint satellites of the Milky Way",
   "authors": [
-    "Tanisha Jhaveri",
-    "Tanvi Karwal",
-    "Thomas Crawford",
-    "Wayne Hu",
-    "Ali Rida Khalife",
-    "Lennart Balkenhol",
-    "Fei Ge"
+    "Isabel M. E. Santos-Santos",
+    "Carlos S. Frenk",
+    "Julio F. Navarro"
   ],
   "categories": [
-    "astro-ph.CO"
+    "astro-ph.GA"
   ],
-  "arxivUrl": "https://arxiv.org/abs/2604.08530v1",
+  "arxivUrl": "https://arxiv.org/abs/2604.09539v1",
   "summaryBullets": [
-    "이 논문은 'Disentangling cosmic distance tensions with early and late dark energy'라는 질문을 중심으로 우주론적 초기 조건과 암흑 성분 제약 문제를 다룹니다. 초록의 첫 메시지는 'Recent cosmological data reveal tension between parameters inferred from measurements of the cosmic microwave background (CMB), baryon acoustic oscillations (BAO), and supernovae (SN) under $Λ$CDM.'에 가깝습니다.",
-    "접근 방식은 초록에 제시된 핵심 가설을 검증하기 위한 분석적 접근에 가깝고, 저자들은 어떤 파라미터나 관측량이 결론을 가장 크게 움직이는지에 주목합니다.",
-    "초록의 마무리 메시지는 'Moreover, though we do not include direct Hubble constant measurements in these $Δχ^2$ values, the EDE solution reduces the Hubble tension with the Local Distance Network value from $7σ$ in $Λ$CDM to $2-3σ$ depending on the SN dataset, nominally the equivalent of an extra $Δχ^2 \\sim -40$ or more.'으로 읽을 수 있어서, 후속 연구에서는 이 결론이 다른 데이터셋과 가정에서도 유지되는지 확인하는 것이 중요합니다."
+    "이 논문은 'The missing ultra-faint satellites of the Milky Way'라는 질문을 중심으로 은하와 은하 주변 물질의 진화 문제를 다룹니다. 초록의 첫 메시지는 'We combine the highest resolution N-body simulation of a $\\sim 10^{12}\\, M_\\odot$ $Λ$CDM halo (Aquarius-A) with the {\\sc GALFORM} galaxy formation semianalytic model to study the full satellite population expected in a MW-like galaxy.'에 가깝습니다.",
+    "접근 방식은 수치 시뮬레이션과 모델링을 활용한 접근에 가깝고, 저자들은 어떤 파라미터나 관측량이 결론을 가장 크게 움직이는지에 주목합니다.",
+    "초록의 마무리 메시지는 'If confirmed, our results would provide support for the cuspy nature of $Λ$CDM dark matter halos and for the hydrogen-cooling threshold for galaxy formation.'으로 읽을 수 있어서, 후속 연구에서는 이 결론이 다른 데이터셋과 가정에서도 유지되는지 확인하는 것이 중요합니다."
   ],
   "takeaways": [
-    "핵심 포커스는 '우주론적 초기 조건과 암흑 성분 제약'이므로, 저자들이 무엇을 새롭게 제약했는지 먼저 읽어보면 좋습니다.",
-    "방법론은 '초록에 제시된 핵심 가설을 검증하기 위한 분석적 접근'에 가깝기 때문에, 데이터 선택과 모형 가정이 결론에 주는 영향을 같이 보는 것이 좋습니다.",
+    "핵심 포커스는 '은하와 은하 주변 물질의 진화'이므로, 저자들이 무엇을 새롭게 제약했는지 먼저 읽어보면 좋습니다.",
+    "방법론은 '수치 시뮬레이션과 모델링을 활용한 접근'에 가깝기 때문에, 데이터 선택과 모형 가정이 결론에 주는 영향을 같이 보는 것이 좋습니다.",
     "결론이 다른 관측 장비, 표본, 또는 시뮬레이션에서도 재현 가능한지 메모해 두면 바로 다음 연구 질문으로 이어집니다."
   ],
-  "abstract": "Recent cosmological data reveal tension between parameters inferred from measurements of the cosmic microwave background (CMB), baryon acoustic oscillations (BAO), and supernovae (SN) under $Λ$CDM. Typical dynamical dark energy parameterizations (such as $w_0w_a$) that seek to jointly resolve these tensions have an equation of state parameter that crosses into the phantom regime, leading to potential instabilities for physical models. We show that the BAO (early-time) and SN (late-time) sides of the tension can instead be treated independently. Early dark energy (EDE) can reduce the tension between CMB-BAO data by changing the calibration of the sound horizon at the drag epoch $r_d$, with a $Δχ^2 = -{9.4}$ relative to $Λ$CDM, raising $H_0$ to 70.87 $\\rm km s^{-1}Mpc^{-1}$. EDE alone cannot bring consistency between CMB, BAO, and SN data, but combining with a thawing-quintessence component of dark energy reduces tensions between the three datasets, with $Δχ^2=-12.6$ relative to $Λ$CDM without a phantom component, vs. $Δχ^2=-15.8$ for $w_0 w_a$ with one. We consider different SN datasets, using the most recent DES Dovekie catalog as our default while assessing differences with the original DESY5 and Pantheon+ catalogs. While the significance of adding thawing quintessence changes, the EDE solution to the CMB-BAO tension remains nearly unaffected. Moreover, though we do not include direct Hubble constant measurements in these $Δχ^2$ values, the EDE solution reduces the Hubble tension with the Local Distance Network value from $7σ$ in $Λ$CDM to $2-3σ$ depending on the SN dataset, nominally the equivalent of an extra $Δχ^2 \\sim -40$ or more.",
+  "abstract": "We combine the highest resolution N-body simulation of a $\\sim 10^{12}\\, M_\\odot$ $Λ$CDM halo (Aquarius-A) with the {\\sc GALFORM} galaxy formation semianalytic model to study the full satellite population expected in a MW-like galaxy. The model assumes that galaxies only form in subhalos whose peak circular velocity exceeds the H-cooling threshold, all of which are well resolved in the simulation. The number of luminous subhalos ever accreted into the main halo is thus well defined, and implies that the total number of MW satellites, down to arbitrarily low luminosity, should not exceed a few hundred. The model tracks satellites even after their halos cease to be resolved (\"orphan\" galaxies), and includes a novel treatment of dark matter and stellar tidal stripping which takes into account that all $Λ$CDM subhalos survive until the present because of their cuspy inner density profiles. After accounting for tides, our results match well the massive end of the observed MW satellite mass function and predict that a large number of ultra-faint dwarfs are missing from the current MW satellite census. The missing UFDs are predicted to avoid the innermost regions of the host, and to have properties that overlap with those of the many ultra-faint compact MW satellites (UFCSs) discovered recently, with properties intermediate between globular clusters and dwarf galaxies. Our results suggest that many UFCS systems are dark matter-dominated dwarfs with velocity dispersions between $1-3$km/s, which have survived disruption because they reside in the dense cusp of $Λ$CDM subhalos. UFCSs should have mean densities of order $10^{10}$-$10^{11}\\,M_\\odot/$kpc$^3$, higher than those of more extended ultra-faint systems. If confirmed, our results would provide support for the cuspy nature of $Λ$CDM dark matter halos and for the hydrogen-cooling threshold for galaxy formation.",
   "researchIdeas": [
     {
       "kicker": "Observation",
@@ -55,7 +51,7 @@
   ],
   "concept": {
     "label": "Selected Concept",
-    "title": "암흑에너지 밀도 매개화",
-    "description": "이 논문에서 잡아야 할 개념은 암흑에너지의 진화를 직접 상태방정식으로 쓰기보다 밀도 함수 자체를 적은 수의 파라미터로 표현하는 방법입니다. 이렇게 하면 기존 CPL 같은 표현이 놓칠 수 있는 밀도 변화 양상을 더 직접적으로 비교할 수 있고, 관측 데이터가 실제로 어떤 시간대의 우주 팽창 이력을 선호하는지도 더 분명하게 읽어낼 수 있습니다. 핵심은 어떤 수학적 형태가 더 편한가보다, 관측 가능한 밀도 변화가 모델 선택에 얼마나 민감한가를 묻는 데 있습니다."
+    "title": "관측량과 모형을 연결하는 해석 프레임",
+    "description": "이 논문에서 독자가 먼저 잡아야 할 개념은 무엇을 직접 본 것인가보다 관측량이 어떤 물리 모형과 연결되는가입니다. 최신 천체물리학 논문은 대개 관측 데이터, 통계 추론, 이론 모형을 한 덩어리로 다루므로, 핵심 개념도 특정 현상 하나보다 그 연결 구조를 이해하는 데서 나옵니다."
   }
 };
