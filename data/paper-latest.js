@@ -1,36 +1,34 @@
 ﻿window.ASTROBRIEF_PAPER = {
   "status": "snapshot",
-  "generatedAt": "2026-04-15T01:22:36.4566190Z",
-  "snapshotDateKst": "2026-04-15",
-  "snapshotLabel": "2026년 4월 15일 오전 9시 KST 스냅샷",
-  "publishedAt": "2026-04-13T17:56:15.0000000+00:00",
-  "updatedAt": "2026-04-13T17:56:15.0000000+00:00",
+  "generatedAt": "2026-04-25T01:22:06.6755125Z",
+  "snapshotDateKst": "2026-04-25",
+  "snapshotLabel": "2026년 4월 25일 오전 9시 KST 스냅샷",
+  "publishedAt": "2026-04-23T17:58:27.0000000+00:00",
+  "updatedAt": "2026-04-23T17:58:27.0000000+00:00",
   "selectionSource": "https://arxiv.org/list/astro-ph/recent",
   "selectionRule": "한국 시간 오전 9시에 astro-ph/recent를 열었을 때 최상단 논문",
-  "focus": "고에너지 천체물리 현상",
-  "title": "The nature of tilted supercritical accretion discs",
+  "focus": "태양 및 항성 물리",
+  "title": "First measurement of wind line formation regions in an early O-type star",
   "authors": [
-    "P. Chris Fragile",
-    "Matthew J. Middleton",
-    "Brooks Brasseur",
-    "Deepika A. Bollimpalli",
-    "Zach Smith"
+    "D. Pauli",
+    "T. N. Parsons",
+    "R. K. Prinja"
   ],
   "categories": [
-    "astro-ph.HE"
+    "astro-ph.SR"
   ],
-  "arxivUrl": "https://arxiv.org/abs/2604.11794v1",
+  "arxivUrl": "https://arxiv.org/abs/2604.21920v1",
   "summaryBullets": [
-    "이 논문은 'The nature of tilted supercritical accretion discs'라는 질문을 중심으로 고에너지 천체물리 현상 문제를 다룹니다. 초록의 첫 메시지는 'In this paper, we report on the first 3D general relativistic radiation magnetohydrodynamic simulations of large supercritical accretion discs that are tilted with respect to the black hole spin axis.'에 가깝습니다.",
-    "접근 방식은 초록에 제시된 핵심 가설을 검증하기 위한 분석적 접근에 가깝고, 저자들은 어떤 파라미터나 관측량이 결론을 가장 크게 움직이는지에 주목합니다.",
-    "초록의 마무리 메시지는 'We attribute all of these differences to the presence of standing shocks in the inner regions of the accretion flow, a feature unique to tilted discs.'으로 읽을 수 있어서, 후속 연구에서는 이 결론이 다른 데이터셋과 가정에서도 유지되는지 확인하는 것이 중요합니다."
+    "이 논문은 'First measurement of wind line formation regions in an early O-type star'라는 질문을 중심으로 태양 및 항성 물리 문제를 다룹니다. 초록의 첫 메시지는 'Massive stars with their strong ionizing radiation and strong stellar winds are the key feedback agents of the universe.'에 가깝습니다.",
+    "접근 방식은 관측 자료와 서베이 데이터를 활용한 접근에 가깝고, 저자들은 어떤 파라미터나 관측량이 결론을 가장 크게 움직이는지에 주목합니다.",
+    "초록의 마무리 메시지는 'A first comparison to 1D-stellar atmosphere models indicates that a classical beta-law with an exponent of beta=0.5 instead of beta=0.8 might be favoured for the primary star's velocity field.'으로 읽을 수 있어서, 후속 연구에서는 이 결론이 다른 데이터셋과 가정에서도 유지되는지 확인하는 것이 중요합니다."
   ],
   "takeaways": [
-    "핵심 포커스는 '고에너지 천체물리 현상'이므로, 저자들이 무엇을 새롭게 제약했는지 먼저 읽어보면 좋습니다.",
-    "방법론은 '초록에 제시된 핵심 가설을 검증하기 위한 분석적 접근'에 가깝기 때문에, 데이터 선택과 모형 가정이 결론에 주는 영향을 같이 보는 것이 좋습니다.",
+    "핵심 포커스는 '태양 및 항성 물리'이므로, 저자들이 무엇을 새롭게 제약했는지 먼저 읽어보면 좋습니다.",
+    "방법론은 '관측 자료와 서베이 데이터를 활용한 접근'에 가깝기 때문에, 데이터 선택과 모형 가정이 결론에 주는 영향을 같이 보는 것이 좋습니다.",
     "결론이 다른 관측 장비, 표본, 또는 시뮬레이션에서도 재현 가능한지 메모해 두면 바로 다음 연구 질문으로 이어집니다."
   ],
-  "abstract": "In this paper, we report on the first 3D general relativistic radiation magnetohydrodynamic simulations of large supercritical accretion discs that are tilted with respect to the black hole spin axis. We explore a range of black hole spin parameters (from $a_* = -0.9$ to 0.9), initial tilts (in the range from $β_0 = 0^\\circ$ to $30^\\circ$), and target mass accretion rates. We first confirm that, for all the untilted simulations, the Eddington accretion limit is obeyed ($\\dot{M}_\\mathrm{BH} \\lesssim \\dot{M}_\\mathrm{Edd}$), consistent with our previous findings. However, for tilted discs we find that the mass accretion rate can be enhanced by up to a factor of ten and that factor depends linearly on tilt $\\dot{M}_\\mathrm{BH} \\propto β_0 \\ge \\dot{M}_\\mathrm{Edd}$. This could be an important aspect in solving the puzzle of the growth of the first supermassive black holes. We also find that for a given tilt, the mass accretion rate enhancement is proportional to the magnitude of the spin. Additionally, we find that tilted supercritical accretion discs are more advective than their untilted counterparts. We attribute all of these differences to the presence of standing shocks in the inner regions of the accretion flow, a feature unique to tilted discs.",
+  "abstract": "Massive stars with their strong ionizing radiation and strong stellar winds are the key feedback agents of the universe. Stellar winds of massive stars are often measured by fitting resonance lines in the UV using non-LTE stellar atmosphere models. So far, the line formation regions of these lines have not been measured empirically, preventing a comparison to the model's structures. We aim to conduct the first measurement of the resonance line formation regions in an early-type eclipsing binary in the SMC, namely AzV 75. We employ TESS and ASAS-SN photometry in combination with radial velocity measurements from multi-epoch HST UV spectra to derive the ephemeris. We examine the intensity changes in the C IV and N V resonance lines in the UV and combine them with a light-curve analysis to estimate the region in the wind where these lines are formed. AzV 75 has an orbital period P=165.66d, eccentricity e=0.42, mass ratio q=0.72, and inclination i=85.77°. With this orbital configuration, no secondary eclipse is expected. We report that the optically thick UV resonance lines exhibit flattening and shortening of the absorption trough, and weakening of their emission features, as they approach the phase of the expected secondary eclipse, while the continuum UV flux appears to remain unaffected. We illustrate that this can be explained by the primary's optically thick wind eclipsing the secondary star. The C IV and N V resonance line formation regions in the primary star extend up to 316 Rsol. The measured extend of the formation regions of resonance lines in a stellar wind are important benchmarks for 1D as well as 3D non-LTE stellar atmosphere models. A first comparison to 1D-stellar atmosphere models indicates that a classical beta-law with an exponent of beta=0.5 instead of beta=0.8 might be favoured for the primary star's velocity field.",
   "researchIdeas": [
     {
       "kicker": "Observation",
