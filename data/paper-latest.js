@@ -1,34 +1,38 @@
 ﻿window.ASTROBRIEF_PAPER = {
   "status": "snapshot",
-  "generatedAt": "2026-04-26T01:43:00.1493680Z",
-  "snapshotDateKst": "2026-04-26",
-  "snapshotLabel": "2026년 4월 26일 오전 9시 KST 스냅샷",
-  "publishedAt": "2026-04-23T17:58:27.0000000+00:00",
-  "updatedAt": "2026-04-23T17:58:27.0000000+00:00",
+  "generatedAt": "2026-04-27T01:46:32.2358437Z",
+  "snapshotDateKst": "2026-04-27",
+  "snapshotLabel": "2026년 4월 27일 오전 9시 KST 스냅샷",
+  "publishedAt": "2026-04-24T17:39:11.0000000+00:00",
+  "updatedAt": "2026-04-24T17:39:11.0000000+00:00",
   "selectionSource": "https://arxiv.org/list/astro-ph/recent",
   "selectionRule": "한국 시간 오전 9시에 astro-ph/recent를 열었을 때 최상단 논문",
-  "focus": "태양 및 항성 물리",
-  "title": "First measurement of wind line formation regions in an early O-type star",
+  "focus": "관측 장비와 데이터 해석",
+  "title": "Describing the swdatatoolkit: A Space Weather Data Analysis Library",
   "authors": [
-    "D. Pauli",
-    "T. N. Parsons",
-    "R. K. Prinja"
+    "Dustin Kempton",
+    "Griffin Goodwin",
+    "Tarun Kumar Reddy Thippareddy",
+    "Reet Gupta",
+    "Viacheslav Sadykov",
+    "Rafal Angryk"
   ],
   "categories": [
+    "astro-ph.IM",
     "astro-ph.SR"
   ],
-  "arxivUrl": "https://arxiv.org/abs/2604.21920v1",
+  "arxivUrl": "https://arxiv.org/abs/2604.22741v1",
   "summaryBullets": [
-    "이 논문은 'First measurement of wind line formation regions in an early O-type star'라는 질문을 중심으로 태양 및 항성 물리 문제를 다룹니다. 초록의 첫 메시지는 'Massive stars with their strong ionizing radiation and strong stellar winds are the key feedback agents of the universe.'에 가깝습니다.",
-    "접근 방식은 관측 자료와 서베이 데이터를 활용한 접근에 가깝고, 저자들은 어떤 파라미터나 관측량이 결론을 가장 크게 움직이는지에 주목합니다.",
-    "초록의 마무리 메시지는 'A first comparison to 1D-stellar atmosphere models indicates that a classical beta-law with an exponent of beta=0.5 instead of beta=0.8 might be favoured for the primary star's velocity field.'으로 읽을 수 있어서, 후속 연구에서는 이 결론이 다른 데이터셋과 가정에서도 유지되는지 확인하는 것이 중요합니다."
+    "이 논문은 'Describing the swdatatoolkit: A Space Weather Data Analysis Library'라는 질문을 중심으로 관측 장비와 데이터 해석 문제를 다룹니다. 초록의 첫 메시지는 'swdatatoolkit is a Python-based scientific software library designed to support the acquisition, preprocessing, and analysis of solar and space weather data.'에 가깝습니다.",
+    "접근 방식은 초록에 제시된 핵심 가설을 검증하기 위한 분석적 접근에 가깝고, 저자들은 어떤 파라미터나 관측량이 결론을 가장 크게 움직이는지에 주목합니다.",
+    "초록의 마무리 메시지는 'This paper presents an overview of the library's available capabilities, its scientific motivations, and its role in the broader space weather research ecosystem.'으로 읽을 수 있어서, 후속 연구에서는 이 결론이 다른 데이터셋과 가정에서도 유지되는지 확인하는 것이 중요합니다."
   ],
   "takeaways": [
-    "핵심 포커스는 '태양 및 항성 물리'이므로, 저자들이 무엇을 새롭게 제약했는지 먼저 읽어보면 좋습니다.",
-    "방법론은 '관측 자료와 서베이 데이터를 활용한 접근'에 가깝기 때문에, 데이터 선택과 모형 가정이 결론에 주는 영향을 같이 보는 것이 좋습니다.",
+    "핵심 포커스는 '관측 장비와 데이터 해석'이므로, 저자들이 무엇을 새롭게 제약했는지 먼저 읽어보면 좋습니다.",
+    "방법론은 '초록에 제시된 핵심 가설을 검증하기 위한 분석적 접근'에 가깝기 때문에, 데이터 선택과 모형 가정이 결론에 주는 영향을 같이 보는 것이 좋습니다.",
     "결론이 다른 관측 장비, 표본, 또는 시뮬레이션에서도 재현 가능한지 메모해 두면 바로 다음 연구 질문으로 이어집니다."
   ],
-  "abstract": "Massive stars with their strong ionizing radiation and strong stellar winds are the key feedback agents of the universe. Stellar winds of massive stars are often measured by fitting resonance lines in the UV using non-LTE stellar atmosphere models. So far, the line formation regions of these lines have not been measured empirically, preventing a comparison to the model's structures. We aim to conduct the first measurement of the resonance line formation regions in an early-type eclipsing binary in the SMC, namely AzV 75. We employ TESS and ASAS-SN photometry in combination with radial velocity measurements from multi-epoch HST UV spectra to derive the ephemeris. We examine the intensity changes in the C IV and N V resonance lines in the UV and combine them with a light-curve analysis to estimate the region in the wind where these lines are formed. AzV 75 has an orbital period P=165.66d, eccentricity e=0.42, mass ratio q=0.72, and inclination i=85.77°. With this orbital configuration, no secondary eclipse is expected. We report that the optically thick UV resonance lines exhibit flattening and shortening of the absorption trough, and weakening of their emission features, as they approach the phase of the expected secondary eclipse, while the continuum UV flux appears to remain unaffected. We illustrate that this can be explained by the primary's optically thick wind eclipsing the secondary star. The C IV and N V resonance line formation regions in the primary star extend up to 316 Rsol. The measured extend of the formation regions of resonance lines in a stellar wind are important benchmarks for 1D as well as 3D non-LTE stellar atmosphere models. A first comparison to 1D-stellar atmosphere models indicates that a classical beta-law with an exponent of beta=0.5 instead of beta=0.8 might be favoured for the primary star's velocity field.",
+  "abstract": "swdatatoolkit is a Python-based scientific software library designed to support the acquisition, preprocessing, and analysis of solar and space weather data. The toolkit consolidates functionality across multiple domains, including data downloading from established heliophysics sources, image preprocessing, edge detection, image texture quantification, magnetic field analysis, and the derivation of higher-level parameters commonly used in solar physics research. Its modular structure reflects the heterogeneous nature of space weather data and enables reproducible, extensible workflows for both exploratory analysis and machine-learning-driven studies. This paper presents an overview of the library's available capabilities, its scientific motivations, and its role in the broader space weather research ecosystem.",
   "researchIdeas": [
     {
       "kicker": "Observation",
@@ -44,9 +48,9 @@
     },
     {
       "kicker": "Forecast",
-      "title": "후속 장비나 더 큰 표본에서 재현 가능한지 계산하기",
-      "description": "흥미로운 결론도 실제 다음 세대 장비나 더 넓은 데이터에서 검출 가능하지 않으면 후속 연구 우선순위를 세우기 어렵습니다.",
-      "nextStep": "예상 신호 크기, 잡음, 필요한 표본 수를 한 장짜리 feasibility 메모로 정리합니다."
+      "title": "실제 관측 파이프라인까지 포함한 end-to-end 테스트",
+      "description": "장비·방법론 논문은 알고리즘 자체보다도 시스템 오차가 전체 파이프라인에서 어떻게 누적되는지 봐야 실전성이 높아집니다.",
+      "nextStep": "입력부터 최종 통계량까지 이어지는 오차 전파 흐름도를 작성합니다."
     }
   ],
   "concept": {
