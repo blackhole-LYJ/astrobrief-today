@@ -1,8 +1,8 @@
 ﻿window.ASTROBRIEF_PAPER = {
   "status": "snapshot",
-  "generatedAt": "2026-05-04T01:50:24.9030301Z",
-  "snapshotDateKst": "2026-05-04",
-  "snapshotLabel": "2026년 5월 4일 오전 9시 KST 스냅샷",
+  "generatedAt": "2026-05-05T01:51:28.7492419Z",
+  "snapshotDateKst": "2026-05-05",
+  "snapshotLabel": "2026년 5월 5일 오전 9시 KST 스냅샷",
   "publishedAt": "2026-05-01T17:58:37.0000000+00:00",
   "updatedAt": "2026-05-01T17:58:37.0000000+00:00",
   "selectionSource": "https://arxiv.org/list/astro-ph/recent",
