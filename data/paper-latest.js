@@ -1,35 +1,34 @@
 ﻿window.ASTROBRIEF_PAPER = {
   "status": "snapshot",
-  "generatedAt": "2026-05-10T01:52:55.4027216Z",
-  "snapshotDateKst": "2026-05-10",
-  "snapshotLabel": "2026년 5월 10일 오전 9시 KST 스냅샷",
-  "publishedAt": "2026-05-07T17:58:27.0000000+00:00",
-  "updatedAt": "2026-05-07T17:58:27.0000000+00:00",
+  "generatedAt": "2026-05-12T01:59:28.3849414Z",
+  "snapshotDateKst": "2026-05-12",
+  "snapshotLabel": "2026년 5월 12일 오전 9시 KST 스냅샷",
+  "publishedAt": "2026-05-08T17:59:28.0000000+00:00",
+  "updatedAt": "2026-05-08T17:59:28.0000000+00:00",
   "selectionSource": "https://arxiv.org/list/astro-ph/recent",
   "selectionRule": "한국 시간 오전 9시에 astro-ph/recent를 열었을 때 최상단 논문",
-  "focus": "은하와 은하 주변 물질의 진화",
-  "title": "The Pulsar Radial Acceleration Relation",
+  "focus": "우주론적 초기 조건과 암흑 성분 제약",
+  "title": "CMB Limits on the Absorption of Light Vector and Axial-Vector Dark Matter",
   "authors": [
-    "Tariq Yasin",
-    "Harry Desmond"
+    "Gabriele Montefalcone",
+    "Nicola Bellomo",
+    "Kimberly K. Boddy"
   ],
   "categories": [
-    "astro-ph.GA",
-    "astro-ph.CO",
-    "astro-ph.HE"
+    "astro-ph.CO"
   ],
-  "arxivUrl": "https://arxiv.org/abs/2605.06659v1",
+  "arxivUrl": "https://arxiv.org/abs/2605.08080v1",
   "summaryBullets": [
-    "이 논문은 'The Pulsar Radial Acceleration Relation'라는 질문을 중심으로 은하와 은하 주변 물질의 진화 문제를 다룹니다. 초록의 첫 메시지는 'The radial acceleration relation (RAR) links observed and baryonic accelerations, and is best established in rotation curves of late-type galaxies.'에 가깝습니다.",
-    "접근 방식은 관측 자료와 서베이 데이터를 활용한 접근에 가깝고, 저자들은 어떤 파라미터나 관측량이 결론을 가장 크게 움직이는지에 주목합니다.",
-    "초록의 마무리 메시지는 'However, setting all accelerations to that of the Sun gives a reduced $χ^2$ of 3.75, showing that this vector RAR test is dominated by the Solar acceleration with current data.'으로 읽을 수 있어서, 후속 연구에서는 이 결론이 다른 데이터셋과 가정에서도 유지되는지 확인하는 것이 중요합니다."
+    "이 논문은 'CMB Limits on the Absorption of Light Vector and Axial-Vector Dark Matter'라는 질문을 중심으로 우주론적 초기 조건과 암흑 성분 제약 문제를 다룹니다. 초록의 첫 메시지는 'Leptophilic sub-MeV spin-1 dark matter (DM) can be converted into a photon via inelastic scattering with a free electron or absorption by a neutral hydrogen atom in the primordial plasma.'에 가깝습니다.",
+    "접근 방식은 초록에 제시된 핵심 가설을 검증하기 위한 분석적 접근에 가깝고, 저자들은 어떤 파라미터나 관측량이 결론을 가장 크게 움직이는지에 주목합니다.",
+    "초록의 마무리 메시지는 'Although the bounds we derive are considerably weaker than existing laboratory and astrophysical limits, they provide a robust and independent cosmological probe of leptophilic DM interactions.'으로 읽을 수 있어서, 후속 연구에서는 이 결론이 다른 데이터셋과 가정에서도 유지되는지 확인하는 것이 중요합니다."
   ],
   "takeaways": [
-    "핵심 포커스는 '은하와 은하 주변 물질의 진화'이므로, 저자들이 무엇을 새롭게 제약했는지 먼저 읽어보면 좋습니다.",
-    "방법론은 '관측 자료와 서베이 데이터를 활용한 접근'에 가깝기 때문에, 데이터 선택과 모형 가정이 결론에 주는 영향을 같이 보는 것이 좋습니다.",
+    "핵심 포커스는 '우주론적 초기 조건과 암흑 성분 제약'이므로, 저자들이 무엇을 새롭게 제약했는지 먼저 읽어보면 좋습니다.",
+    "방법론은 '초록에 제시된 핵심 가설을 검증하기 위한 분석적 접근'에 가깝기 때문에, 데이터 선택과 모형 가정이 결론에 주는 영향을 같이 보는 것이 좋습니다.",
     "결론이 다른 관측 장비, 표본, 또는 시뮬레이션에서도 재현 가능한지 메모해 두면 바로 다음 연구 질문으로 이어집니다."
   ],
-  "abstract": "The radial acceleration relation (RAR) links observed and baryonic accelerations, and is best established in rotation curves of late-type galaxies. Pulsar timing, which measures line-of-sight (LOS) differential accelerations between the Sun and pulsars, provides a novel probe of this relation, including along directions outside the Galactic disc. By combining these pulsar differential accelerations with the acceleration at the Sun, we test whether current pulsar timing data carry information on a vector generalisation of the RAR, ${g}_{\\rm obs}=ν(|{g}_{\\rm bar}|){g}_{\\rm bar}$. Comparing the measured SPARC RAR (generalised to 3D) to 26 binary-system pulsars with literature accelerations, we find a reduced $χ^2$ of 3.58, compared with 10.86 for Newtonian baryonic gravity alone. However, setting all accelerations to that of the Sun gives a reduced $χ^2$ of 3.75, showing that this vector RAR test is dominated by the Solar acceleration with current data.",
+  "abstract": "Leptophilic sub-MeV spin-1 dark matter (DM) can be converted into a photon via inelastic scattering with a free electron or absorption by a neutral hydrogen atom in the primordial plasma. We study for the first time the impact of the energy injection resulting from such processes on cosmic microwave background (CMB) anisotropies. We obtain upper limits on the vector and axial-vector DM-electron couplings using Planck 2018 temperature, polarization, and lensing data for DM masses between 100 eV and 100 keV. We find that, due to the suppression of the hydrogen atomic form factor at high energies, inelastic scattering provides the dominant constraint for DM masses above the keV scale. At lower masses, hydrogen ionization through DM absorption is the leading channel, driven by the higher efficiency of post-recombination energy injection in modifying the free-electron fraction. Although the bounds we derive are considerably weaker than existing laboratory and astrophysical limits, they provide a robust and independent cosmological probe of leptophilic DM interactions.",
   "researchIdeas": [
     {
       "kicker": "Observation",
@@ -52,7 +51,7 @@
   ],
   "concept": {
     "label": "Selected Concept",
-    "title": "관측량과 모형을 연결하는 해석 프레임",
-    "description": "이 논문에서 독자가 먼저 잡아야 할 개념은 무엇을 직접 본 것인가보다 관측량이 어떤 물리 모형과 연결되는가입니다. 최신 천체물리학 논문은 대개 관측 데이터, 통계 추론, 이론 모형을 한 덩어리로 다루므로, 핵심 개념도 특정 현상 하나보다 그 연결 구조를 이해하는 데서 나옵니다."
+    "title": "관측 데이터 결합을 통한 우주론 모형 제약",
+    "description": "이 논문에서 중요한 개념은 서로 다른 우주론 관측 데이터를 한 프레임에 묶어 하나의 모형을 제약하는 방법입니다. CMB, 대규모 구조, 거리 측정처럼 서로 민감한 스케일이 다른 데이터를 같이 쓰면 파라미터 퇴화를 줄일 수 있고, 특정 모형이 한 데이터셋에서는 좋아 보여도 전체적으로는 얼마나 안정적인지 더 분명하게 알 수 있습니다."
   }
 };
