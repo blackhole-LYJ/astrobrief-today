@@ -1,59 +1,33 @@
 ﻿window.ASTROBRIEF_PAPER = {
   "status": "snapshot",
-  "generatedAt": "2026-05-13T02:04:10.6795750Z",
-  "snapshotDateKst": "2026-05-13",
-  "snapshotLabel": "2026년 5월 13일 오전 9시 KST 스냅샷",
-  "publishedAt": "2026-05-11T17:59:36.0000000+00:00",
-  "updatedAt": "2026-05-11T17:59:36.0000000+00:00",
+  "generatedAt": "2026-05-16T01:57:10.4121872Z",
+  "snapshotDateKst": "2026-05-16",
+  "snapshotLabel": "2026년 5월 16일 오전 9시 KST 스냅샷",
+  "publishedAt": "2026-05-14T17:59:55.0000000+00:00",
+  "updatedAt": "2026-05-14T17:59:55.0000000+00:00",
   "selectionSource": "https://arxiv.org/list/astro-ph/recent",
   "selectionRule": "한국 시간 오전 9시에 astro-ph/recent를 열었을 때 최상단 논문",
-  "focus": "고에너지 천체물리 현상",
-  "title": "Electromagnetic Follow-up of the Sub-Solar Mass Gravitational Wave Candidate S251112cm: Kilonova Constraints and a Coincident IIb Supernova",
+  "focus": "우주론적 초기 조건과 암흑 성분 제약",
+  "title": "Primordial Black Hole from Tensor-induced Density Fluctuation: First-order Phase Transitions and Domain Walls",
   "authors": [
-    "Xander J. Hall",
-    "Tomas Ahumada",
-    "Julius Gassert",
-    "Antonella Palmese",
-    "Brian D. Metzger",
-    "Mansi M. Kasliwal",
-    "Mattia Bulla",
-    "Daniel Gruen",
-    "Robert Stein",
-    "Christoffer Fremling",
-    "Shreya Anand",
-    "Igor Andreoni",
-    "Malte Busmann",
-    "Tomás Cabrera",
-    "Ryan Christinzio",
-    "James Freeburn",
-    "Ignacio Magaña Hernandez",
-    "Lei Hu",
-    "Brendan O'Connor",
-    "Ji-an Jiang",
-    "Zhengyan Liu",
-    "Wen Zhao",
-    "Eric C. Bellm",
-    "David Cook",
-    "Michael W. Coughlin",
-    "Richard Dekany",
-    "Matthew Graham",
-    "Russ R. Laher"
+    "Utkarsh Kumar",
+    "Anish Ghoshal"
   ],
   "categories": [
-    "astro-ph.HE"
+    "astro-ph.CO"
   ],
-  "arxivUrl": "https://arxiv.org/abs/2605.10940v1",
+  "arxivUrl": "https://arxiv.org/abs/2605.15197v1",
   "summaryBullets": [
-    "이 논문은 'Electromagnetic Follow-up of the Sub-Solar Mass Gravitational Wave Candidate S251112cm: Kilonova Constraints and a Coincident IIb Supernova'라는 질문을 중심으로 고에너지 천체물리 현상 문제를 다룹니다. 초록의 첫 메시지는 'On November 12th, 2025 the LIGO--Virgo--KAGRA (LVK) collaboration reported gravitational waves (GWs) from a compact object merger candidate (S251112cm) with at least one sub-solar mass component.'에 가깝습니다.",
-    "접근 방식은 관측 자료와 서베이 데이터를 활용한 접근에 가깝고, 저자들은 어떤 파라미터나 관측량이 결론을 가장 크게 움직이는지에 주목합니다.",
-    "초록의 마무리 메시지는 'Together, these results provide suggestive but inconclusive evidence for the superkilonova formation channel.'으로 읽을 수 있어서, 후속 연구에서는 이 결론이 다른 데이터셋과 가정에서도 유지되는지 확인하는 것이 중요합니다."
+    "이 논문은 'Primordial Black Hole from Tensor-induced Density Fluctuation: First-order Phase Transitions and Domain Walls'라는 질문을 중심으로 우주론적 초기 조건과 암흑 성분 제약 문제를 다룹니다. 초록의 첫 메시지는 'We present a novel \\textit{gauge-invariant and minimal} formation mechanism of primordial black holes (PBHs) in first-order phase transition (FOPT) and domain walls (DW) separately.'에 가깝습니다.",
+    "접근 방식은 이론적 프레임워크와 해석적 계산 중심 접근에 가깝고, 저자들은 어떤 파라미터나 관측량이 결론을 가장 크게 움직이는지에 주목합니다.",
+    "초록의 마무리 메시지는 'We also provide semi-analytical formulae for the tensor-induced density spectrum, $P_{δ^{(2)}}$, $M_{\\rm PBH}$ and $f_{\\rm PBH}$, relating them in terms of FOPT and DW parameters which in turn, are related to viable particle physics origin of such FOPT and DW, and therefore, constrain such microphysics, either in the visible, or in dark sector models.'으로 읽을 수 있어서, 후속 연구에서는 이 결론이 다른 데이터셋과 가정에서도 유지되는지 확인하는 것이 중요합니다."
   ],
   "takeaways": [
-    "핵심 포커스는 '고에너지 천체물리 현상'이므로, 저자들이 무엇을 새롭게 제약했는지 먼저 읽어보면 좋습니다.",
-    "방법론은 '관측 자료와 서베이 데이터를 활용한 접근'에 가깝기 때문에, 데이터 선택과 모형 가정이 결론에 주는 영향을 같이 보는 것이 좋습니다.",
+    "핵심 포커스는 '우주론적 초기 조건과 암흑 성분 제약'이므로, 저자들이 무엇을 새롭게 제약했는지 먼저 읽어보면 좋습니다.",
+    "방법론은 '이론적 프레임워크와 해석적 계산 중심 접근'에 가깝기 때문에, 데이터 선택과 모형 가정이 결론에 주는 영향을 같이 보는 것이 좋습니다.",
     "결론이 다른 관측 장비, 표본, 또는 시뮬레이션에서도 재현 가능한지 메모해 두면 바로 다음 연구 질문으로 이어집니다."
   ],
-  "abstract": "On November 12th, 2025 the LIGO--Virgo--KAGRA (LVK) collaboration reported gravitational waves (GWs) from a compact object merger candidate (S251112cm) with at least one sub-solar mass component. Using the Dark Energy Camera (DECam), the Fraunhofer Telescope at Wendelstein Observatory (FTW), and the Zwicky Transient Facility (ZTF), we surveyed $56\\%$ of the GW localization region beginning $2.4$~hours after the GW alert. We find no kilonova (KN) counterpart, and use radiative-transfer models to rule out $42\\%$ (ZTF), $68\\%$ (DECam), and $92\\%$ (FTW) of the KN models as possible emission from this GW candidate. Within the recently proposed disk-fragmentation (``superkilonova'') model for generating sub-solar mass neutron star mergers from stellar core-collapse, the delay between the supernova explosion time and the GW merger time is estimated to be less than a few days. Searching this time window prior to the GW event, we identify and spectroscopically classify a IIb supernova (SN~2025adtq), with a spatial association odds ratio of $\\log_{10}\\mathcal{I} \\approx 4.8$, a chance coincidence probability of ${\\sim}2$--$9\\%$, and an estimated explosion time ${\\sim}2$ days prior to S251112cm. SN~2025adtq is the second Type~IIb supernova found in spatial and temporal coincidence with a sub-solar mass GW candidate, following the previously reported S250818k/SN~2025ulz association; jointly, we measure an odds ratio that favors the association hypothesis over the null, however, when conditioned on finding a coincident supernova by chance, the odds ratio disfavors association. Together, these results provide suggestive but inconclusive evidence for the superkilonova formation channel.",
+  "abstract": "We present a novel \\textit{gauge-invariant and minimal} formation mechanism of primordial black holes (PBHs) in first-order phase transition (FOPT) and domain walls (DW) separately. This is based on the first-order tensor perturbations, generated during FOPT from bubble collisions \\& sound waves, and from DW annihilation, sourcing curvature, at second-order in perturbation theory. We show that the PBH formation implies \\textit{model-independent constraints} on FOPT parameters ($β/H, α, T_{\\star}$ ) and on DW parameters, ($α_{\\rm ann}, V_{\\rm bias}, σ$), from existing PBH constraints. We find that asteroid mass PBHs can become the entire dark matter (DM) of the Universe, for $T_{\\star} \\in (4 \\times 10^{2}, 10^{4})$ GeV, for $β/H \\simeq 6$, involving $α>\\mathcal{O}(1)$ values. The corresponding FOPT Gravitational Waves (GW) amplitude will have its characteristic peak at $Ω_{\\rm GW}^{\\rm p} h^2$ $\\sim \\mathcal{O}(10^{-8})$ between frequencies $f_{\\rm p} \\in ({10^{-5},10^{-2}})$ Hz which is within the reach in LISA and SKA detectors. PBH as entire DM is possible for $σ^{1/3} \\in [10^{6}, 10^{8}]$ TeV, for $V_{\\rm bias}^{1/4} \\in [10^7, 10^{10}]$ MeV with the corresponding GW amplitude peak from DW annihilation $Ω_{\\rm GW}^{\\rm p} h^2$ $\\sim \\mathcal{O}(10^{-9})$ (for $α_{\\rm ann} \\sim 10^{-2}$) and peak frequencies between $f_{\\rm p} \\in (4 \\times {10^{-4},10^{-1}})$ Hz with ($T_{\\rm ann} \\in 4.5 \\times [10^3, 10^6] $) GeV within the reach in LISA and ET detectors. We also provide semi-analytical formulae for the tensor-induced density spectrum, $P_{δ^{(2)}}$, $M_{\\rm PBH}$ and $f_{\\rm PBH}$, relating them in terms of FOPT and DW parameters which in turn, are related to viable particle physics origin of such FOPT and DW, and therefore, constrain such microphysics, either in the visible, or in dark sector models.",
   "researchIdeas": [
     {
       "kicker": "Observation",
@@ -63,9 +37,9 @@
     },
     {
       "kicker": "Modeling",
-      "title": "prior와 통계 선택이 결론을 얼마나 바꾸는지 분리하기",
-      "description": "베이지안 또는 likelihood 기반 논문이라면 통계적 선택이 물리적 결론보다 더 큰 영향을 주는지 확인하는 과정이 중요합니다.",
-      "nextStep": "기본 prior와 대안 prior를 나눈 비교 도표를 먼저 만듭니다."
+      "title": "강한 가정 두세 개만 골라 민감도 스캔하기",
+      "description": "초록에서 중요한 결론일수록 특정 초기 조건, prior, 잡음 모형, 또는 피직스 옵션에 얼마나 민감한지 확인해야 해석 범위를 더 정확히 잡을 수 있습니다.",
+      "nextStep": "결론을 가장 많이 흔들 것 같은 가정 2~3개를 선정해 파라미터 스윕 실험을 설계합니다."
     },
     {
       "kicker": "Forecast",
@@ -76,7 +50,7 @@
   ],
   "concept": {
     "label": "Selected Concept",
-    "title": "암흑에너지 밀도 매개화",
-    "description": "이 논문에서 잡아야 할 개념은 암흑에너지의 진화를 직접 상태방정식으로 쓰기보다 밀도 함수 자체를 적은 수의 파라미터로 표현하는 방법입니다. 이렇게 하면 기존 CPL 같은 표현이 놓칠 수 있는 밀도 변화 양상을 더 직접적으로 비교할 수 있고, 관측 데이터가 실제로 어떤 시간대의 우주 팽창 이력을 선호하는지도 더 분명하게 읽어낼 수 있습니다. 핵심은 어떤 수학적 형태가 더 편한가보다, 관측 가능한 밀도 변화가 모델 선택에 얼마나 민감한가를 묻는 데 있습니다."
+    "title": "검출기 네트워크 상관 분석",
+    "description": "이 논문의 핵심 개념은 신호를 단일 장비 하나에서 확정하려 하지 않고, 서로 멀리 떨어진 여러 검출기의 데이터를 함께 비교하는 상관 분석입니다. 각 장비의 로컬 잡음은 서로 다를 가능성이 크지만 실제 우주 기원의 신호는 여러 위치에서 일관된 패턴을 남길 수 있으므로, 네트워크를 구성하면 신호 대 잡음비를 높이고 신호의 기원도 더 설득력 있게 판단할 수 있습니다."
   }
 };
