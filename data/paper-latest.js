@@ -1,33 +1,45 @@
 ﻿window.ASTROBRIEF_PAPER = {
   "status": "snapshot",
-  "generatedAt": "2026-05-17T02:00:11.2676630Z",
-  "snapshotDateKst": "2026-05-17",
-  "snapshotLabel": "2026년 5월 17일 오전 9시 KST 스냅샷",
-  "publishedAt": "2026-05-14T17:59:55.0000000+00:00",
-  "updatedAt": "2026-05-14T17:59:55.0000000+00:00",
+  "generatedAt": "2026-05-19T02:11:28.1058015Z",
+  "snapshotDateKst": "2026-05-19",
+  "snapshotLabel": "2026년 5월 19일 오전 9시 KST 스냅샷",
+  "publishedAt": "2026-05-15T17:13:55.0000000+00:00",
+  "updatedAt": "2026-05-15T17:13:55.0000000+00:00",
   "selectionSource": "https://arxiv.org/list/astro-ph/recent",
   "selectionRule": "한국 시간 오전 9시에 astro-ph/recent를 열었을 때 최상단 논문",
-  "focus": "우주론적 초기 조건과 암흑 성분 제약",
-  "title": "Primordial Black Hole from Tensor-induced Density Fluctuation: First-order Phase Transitions and Domain Walls",
+  "focus": "은하와 은하 주변 물질의 진화",
+  "title": "No Stream Left Unscathed: The imprint of a host galaxy",
   "authors": [
-    "Utkarsh Kumar",
-    "Anish Ghoshal"
+    "Arpit Arora",
+    "Peter S. Ferguson",
+    "Jacob Nibauer",
+    "Nora Shipp",
+    "Videep Reddy",
+    "Eugene Vasiliev",
+    "Jack Kohm",
+    "Laurella C. Marin",
+    "Adrian M. Price-Whelan",
+    "Denis Erkal",
+    "Sarah Pearson",
+    "Andrew Wetzel",
+    "Jeremy Bailin",
+    "Robert Feldmann"
   ],
   "categories": [
-    "astro-ph.CO"
+    "astro-ph.GA"
   ],
-  "arxivUrl": "https://arxiv.org/abs/2605.15197v1",
+  "arxivUrl": "https://arxiv.org/abs/2605.16200v1",
   "summaryBullets": [
-    "이 논문은 'Primordial Black Hole from Tensor-induced Density Fluctuation: First-order Phase Transitions and Domain Walls'라는 질문을 중심으로 우주론적 초기 조건과 암흑 성분 제약 문제를 다룹니다. 초록의 첫 메시지는 'We present a novel \\textit{gauge-invariant and minimal} formation mechanism of primordial black holes (PBHs) in first-order phase transition (FOPT) and domain walls (DW) separately.'에 가깝습니다.",
-    "접근 방식은 이론적 프레임워크와 해석적 계산 중심 접근에 가깝고, 저자들은 어떤 파라미터나 관측량이 결론을 가장 크게 움직이는지에 주목합니다.",
-    "초록의 마무리 메시지는 'We also provide semi-analytical formulae for the tensor-induced density spectrum, $P_{δ^{(2)}}$, $M_{\\rm PBH}$ and $f_{\\rm PBH}$, relating them in terms of FOPT and DW parameters which in turn, are related to viable particle physics origin of such FOPT and DW, and therefore, constrain such microphysics, either in the visible, or in dark sector models.'으로 읽을 수 있어서, 후속 연구에서는 이 결론이 다른 데이터셋과 가정에서도 유지되는지 확인하는 것이 중요합니다."
+    "이 논문은 'No Stream Left Unscathed: The imprint of a host galaxy'라는 질문을 중심으로 은하와 은하 주변 물질의 진화 문제를 다룹니다. 초록의 첫 메시지는 'Stellar streams from disrupted globular clusters are excellent probes of dark matter (DM) subhalos.'에 가깝습니다.",
+    "접근 방식은 관측 자료와 서베이 데이터를 활용한 접근에 가깝고, 저자들은 어떤 파라미터나 관측량이 결론을 가장 크게 움직이는지에 주목합니다.",
+    "초록의 마무리 메시지는 'As next-generation surveys (LSST, Euclid, and Roman) resolve stream structure across hundreds of streams, the baseline established here, streams evolved without small-scale perturbers, becomes essential for extracting DM substructure constraints.'으로 읽을 수 있어서, 후속 연구에서는 이 결론이 다른 데이터셋과 가정에서도 유지되는지 확인하는 것이 중요합니다."
   ],
   "takeaways": [
-    "핵심 포커스는 '우주론적 초기 조건과 암흑 성분 제약'이므로, 저자들이 무엇을 새롭게 제약했는지 먼저 읽어보면 좋습니다.",
-    "방법론은 '이론적 프레임워크와 해석적 계산 중심 접근'에 가깝기 때문에, 데이터 선택과 모형 가정이 결론에 주는 영향을 같이 보는 것이 좋습니다.",
+    "핵심 포커스는 '은하와 은하 주변 물질의 진화'이므로, 저자들이 무엇을 새롭게 제약했는지 먼저 읽어보면 좋습니다.",
+    "방법론은 '관측 자료와 서베이 데이터를 활용한 접근'에 가깝기 때문에, 데이터 선택과 모형 가정이 결론에 주는 영향을 같이 보는 것이 좋습니다.",
     "결론이 다른 관측 장비, 표본, 또는 시뮬레이션에서도 재현 가능한지 메모해 두면 바로 다음 연구 질문으로 이어집니다."
   ],
-  "abstract": "We present a novel \\textit{gauge-invariant and minimal} formation mechanism of primordial black holes (PBHs) in first-order phase transition (FOPT) and domain walls (DW) separately. This is based on the first-order tensor perturbations, generated during FOPT from bubble collisions \\& sound waves, and from DW annihilation, sourcing curvature, at second-order in perturbation theory. We show that the PBH formation implies \\textit{model-independent constraints} on FOPT parameters ($β/H, α, T_{\\star}$ ) and on DW parameters, ($α_{\\rm ann}, V_{\\rm bias}, σ$), from existing PBH constraints. We find that asteroid mass PBHs can become the entire dark matter (DM) of the Universe, for $T_{\\star} \\in (4 \\times 10^{2}, 10^{4})$ GeV, for $β/H \\simeq 6$, involving $α>\\mathcal{O}(1)$ values. The corresponding FOPT Gravitational Waves (GW) amplitude will have its characteristic peak at $Ω_{\\rm GW}^{\\rm p} h^2$ $\\sim \\mathcal{O}(10^{-8})$ between frequencies $f_{\\rm p} \\in ({10^{-5},10^{-2}})$ Hz which is within the reach in LISA and SKA detectors. PBH as entire DM is possible for $σ^{1/3} \\in [10^{6}, 10^{8}]$ TeV, for $V_{\\rm bias}^{1/4} \\in [10^7, 10^{10}]$ MeV with the corresponding GW amplitude peak from DW annihilation $Ω_{\\rm GW}^{\\rm p} h^2$ $\\sim \\mathcal{O}(10^{-9})$ (for $α_{\\rm ann} \\sim 10^{-2}$) and peak frequencies between $f_{\\rm p} \\in (4 \\times {10^{-4},10^{-1}})$ Hz with ($T_{\\rm ann} \\in 4.5 \\times [10^3, 10^6] $) GeV within the reach in LISA and ET detectors. We also provide semi-analytical formulae for the tensor-induced density spectrum, $P_{δ^{(2)}}$, $M_{\\rm PBH}$ and $f_{\\rm PBH}$, relating them in terms of FOPT and DW parameters which in turn, are related to viable particle physics origin of such FOPT and DW, and therefore, constrain such microphysics, either in the visible, or in dark sector models.",
+  "abstract": "Stellar streams from disrupted globular clusters are excellent probes of dark matter (DM) subhalos. Observed Milky Way streams display a remarkable diversity of features: spurs, gaps, kinks, cocoons, and density variations, many attributed to subhalo encounters. But how much of this diversity arises from the host itself? We simulate $\\sim$15,000 globular cluster streams across four Milky Way-mass halos from the FIRE-2 cosmological simulations, evolved in basis function expansion potentials capturing the evolving disk, halo, and large-scale structure while excluding small-scale perturbers such as DM subhalos and giant molecular clouds. We find that roughly three quarters of streams develop complex features from the host potential, such as spurs, kinks, and cocoon-like envelopes. Even the smoothest streams exhibit 10--25\\% width variation along their track and host overdensities and gaps at scales of ${\\sim}2^\\circ$, squarely in the $1^\\circ$--$5^\\circ$ range predicted for subhalo-induced gaps. Pericentric distance is the primary predictor of stream morphology, with ${\\sim}15$ kpc separating smooth from disturbed streams and circular orbits beyond $\\sim$20 kpc producing the smoothest streams. Only $\\sim$70 out of $\\sim$15,000 streams are free of detectable wiggles in the track at any scale. Analogs to observed features, such as the GD-1 spur and the ATLAS--Aliqa Uma kink, emerge even without the presence of subhalos. As next-generation surveys (LSST, Euclid, and Roman) resolve stream structure across hundreds of streams, the baseline established here, streams evolved without small-scale perturbers, becomes essential for extracting DM substructure constraints.",
   "researchIdeas": [
     {
       "kicker": "Observation",
@@ -50,7 +62,7 @@
   ],
   "concept": {
     "label": "Selected Concept",
-    "title": "검출기 네트워크 상관 분석",
-    "description": "이 논문의 핵심 개념은 신호를 단일 장비 하나에서 확정하려 하지 않고, 서로 멀리 떨어진 여러 검출기의 데이터를 함께 비교하는 상관 분석입니다. 각 장비의 로컬 잡음은 서로 다를 가능성이 크지만 실제 우주 기원의 신호는 여러 위치에서 일관된 패턴을 남길 수 있으므로, 네트워크를 구성하면 신호 대 잡음비를 높이고 신호의 기원도 더 설득력 있게 판단할 수 있습니다."
+    "title": "관측량과 모형을 연결하는 해석 프레임",
+    "description": "이 논문에서 독자가 먼저 잡아야 할 개념은 무엇을 직접 본 것인가보다 관측량이 어떤 물리 모형과 연결되는가입니다. 최신 천체물리학 논문은 대개 관측 데이터, 통계 추론, 이론 모형을 한 덩어리로 다루므로, 핵심 개념도 특정 현상 하나보다 그 연결 구조를 이해하는 데서 나옵니다."
   }
 };
